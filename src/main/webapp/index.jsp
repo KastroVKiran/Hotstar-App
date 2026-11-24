@@ -21,7 +21,7 @@
     <nav class="navbar">
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
-            <li class="nav-items"><a href="#">Television</a></li>
+            <li class="nav-items"><a href="#">NETFLIX</a></li>
             <li class="nav-items"><a href="#">Movies</a></li>
             <li class="nav-items"><a href="#">Cricket</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
